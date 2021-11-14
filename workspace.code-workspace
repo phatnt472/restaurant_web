@@ -1,11 +1,7 @@
 {
-	"folders": [
+    "folders": [
 		{
-			"path": "../../Documents/python/Python_TH/ThucHanhNangCao/ThucHanh2/phan2"
-		},
-		{
-			"path": "."
+			"path": "../../Documents/python"
 		}
-	],
-	"settings": {}
+	]
 }
